@@ -18,9 +18,9 @@ My interests span across business intelligence, environmental sustainability, cl
 * Data Visualization
 * Business Analytics
 
-## Featured Projects
+## My Projects
 
-### Retail Sales Performance Dashboard
+### Retail Sales Performance Dashboard(https://github.com/Annozo-data/Retail-Sales-Performance-Dashboard)
 
 Interactive Power BI dashboard analyzing sales performance, revenue trends, customer ratings, and regional performance.
 

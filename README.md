@@ -28,7 +28,7 @@ Interactive Power BI dashboard analyzing sales performance, revenue trends, cust
 
 Performed data cleaning and transformation using Excel and Power Query to improve data quality and usability.
 
-### DecodeLabs Exploratory Data Analysis Project
+### DecodeLabs Exploratory Data Analysis Project(https://github.com/Annozo-data/Decodelabs-Exploratory-Data-Analysis-Project)
 
 Conducted exploratory analysis to uncover trends, patterns, and business insights from real-world datasets.
 

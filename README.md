@@ -24,7 +24,7 @@ My interests span across business intelligence, environmental sustainability, cl
 
 Interactive Power BI dashboard analyzing sales performance, revenue trends, customer ratings, and regional performance.
 
-### DecodeLabs Data Cleaning Project
+### DecodeLabs Data Cleaning Project(https://github.com/Annozo-data/Decodelabs-data-cleaning-project)
 
 Performed data cleaning and transformation using Excel and Power Query to improve data quality and usability.
 

@@ -1,6 +1,6 @@
 # Hi, I'm Anastasia Ozo-Ogueji 👋
 
-Data Analyst | Soil Science Graduate | Sustainability Enthusiast
+Data Analyst | Soil Scientist | Environmental & Sustainability Enthusiast
 
 I am a data analyst with a background in Soil Science and a growing portfolio in business and environmental analytics. I enjoy transforming raw data into actionable insights that support decision-making and drive impact.
 

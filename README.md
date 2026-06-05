@@ -32,6 +32,9 @@ Performed data cleaning and transformation using Excel and Power Query to improv
 
 Conducted exploratory analysis to uncover trends, patterns, and business insights from real-world datasets.
 
+### E-Commerce Sales Performance Dashboard(https://github.com/Annozo-data/E-Commerce_Sales-Performance-Dashboard)
+
+
 ## Certifications
 
 My professional certifications can be viewed on my LinkedIn profile.
